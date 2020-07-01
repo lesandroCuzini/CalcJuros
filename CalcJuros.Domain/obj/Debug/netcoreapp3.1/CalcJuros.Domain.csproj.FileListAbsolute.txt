@@ -7,12 +7,3 @@
 /home/ld_cuzini/repositories/dotnetcore/SoftPlan/CalcJuros/CalcJuros.Domain/obj/Debug/netcoreapp3.1/CalcJuros.Domain.csproj.CoreCompileInputs.cache
 /home/ld_cuzini/repositories/dotnetcore/SoftPlan/CalcJuros/CalcJuros.Domain/obj/Debug/netcoreapp3.1/CalcJuros.Domain.dll
 /home/ld_cuzini/repositories/dotnetcore/SoftPlan/CalcJuros/CalcJuros.Domain/obj/Debug/netcoreapp3.1/CalcJuros.Domain.pdb
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\bin\Debug\netcoreapp3.1\CalcJuros.Domain.deps.json
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\bin\Debug\netcoreapp3.1\CalcJuros.Domain.dll
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\bin\Debug\netcoreapp3.1\CalcJuros.Domain.pdb
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\obj\Debug\netcoreapp3.1\CalcJuros.Domain.csprojAssemblyReference.cache
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\obj\Debug\netcoreapp3.1\CalcJuros.Domain.AssemblyInfoInputs.cache
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\obj\Debug\netcoreapp3.1\CalcJuros.Domain.AssemblyInfo.cs
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\obj\Debug\netcoreapp3.1\CalcJuros.Domain.csproj.CoreCompileInputs.cache
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\obj\Debug\netcoreapp3.1\CalcJuros.Domain.dll
-C:\repositories\dotnetcore\SoftPlan\CalcJuros\CalcJuros.Domain\obj\Debug\netcoreapp3.1\CalcJuros.Domain.pdb
