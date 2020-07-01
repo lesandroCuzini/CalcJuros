@@ -1,6 +1,6 @@
 language: csharp
 dotnet: 3.1.301
-solution: InfoJuros.sln
+solution: CalcJuros.sln
 mono: none
 os:
   - linux
@@ -9,5 +9,5 @@ script:
 deploy:
   provider: heroku
   api_key: $HEROKU_API_KEY
-  app: infojuros
+  app: calcjuros
   
