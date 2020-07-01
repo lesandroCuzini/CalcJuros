@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "jk/i9a29Zqlwpn6cNcb920xFH+b7MuQpuGRIbkkW2HbKvj8lLlnedVX7r/Tw5sh5YWs9LUsKLYK0/kQSnsfG6g==",
+  "success": true,
+  "projectFilePath": "C:\\repositories\\dotnetcore\\SoftPlan\\CalcJuros\\CalcJuros.Api\\CalcJuros.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.5\\microsoft.extensions.configuration.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.5\\microsoft.extensions.configuration.binder.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.http\\3.1.5\\microsoft.extensions.http.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.5\\microsoft.extensions.http.polly.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.logging\\3.1.5\\microsoft.extensions.logging.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.0\\swashbuckle.aspnetcore.5.5.0.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.0\\swashbuckle.aspnetcore.swagger.5.5.0.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.0\\swashbuckle.aspnetcore.swaggergen.5.5.0.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.0\\swashbuckle.aspnetcore.swaggerui.5.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

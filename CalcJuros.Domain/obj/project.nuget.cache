@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/J4SEaPcGLCwuSB4C4QbvWrwTT28omn/CAOLuXlwmH/Yi1M7df+Xy7Xv3y8C/NH6r6gMDJz1Zfd5HLu7Cw/Mw==",
+  "success": true,
+  "projectFilePath": "C:\\repositories\\dotnetcore\\SoftPlan\\CalcJuros\\CalcJuros.Domain\\CalcJuros.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.5\\microsoft.extensions.configuration.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.5\\microsoft.extensions.configuration.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.5\\microsoft.extensions.configuration.binder.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.logging\\3.1.5\\microsoft.extensions.logging.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.5\\microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.options\\3.1.5\\microsoft.extensions.options.3.1.5.nupkg.sha512",
+    "C:\\Users\\lesan\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
