@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lesandroCuzini/CalcJuros.svg?branch=master)](https://travis-ci.org/lesandroCuzini/CalcJuros)
+
 # CalcJuros
  - API para calcular Juros composto.
 
